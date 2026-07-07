@@ -2,280 +2,285 @@
 <!--                    ANIMATED HEADER                     -->
 <!-- ===================================================== -->
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24,30&text=Nisha%20Subramani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20Java%20Developer%20|%20EEE%20Student&descAlignY=58"/>
-</p>
+<div align="center">
 
-<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:EA4335,50:8B5CF6,100:6C63FF&text=Nisha%20Subramani&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+</div>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="60%" valign="middle">
+
+<img src="https://img.shields.io/badge/👋-WELCOME_TO_MY_PROFILE-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Nisha+Subramani;Electrical+%26+Electronics+Engineering+Student;Aspiring+Software+Engineer;Java+Developer;Full+Stack+Learner;IoT+%26+Embedded+Systems+Enthusiast;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2600&pause=700&color=A78BFA&background=00000000&center=false&vCenter=true&width=500&height=35&lines=Hi+there%2C+I'm+Nisha+Subramani" />
 </a>
 
-</p>
+<br/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=2600&pause=700&color=A78BFA&background=00000000&center=false&vCenter=true&width=500&height=35&lines=Passionate+Software+Developer;Aspiring+Java+Developer;Building+software+that+solves+real-world+problems.;Think.+Build.+Improve.+Repeat." />
+</a>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&duration=1800&pause=400&color=9CA3AF&background=00000000&center=false&vCenter=true&width=400&height=25&lines=%F0%9F%92%BB+Currently+coding...;%F0%9F%93%9A+Currently+learning...;%F0%9F%9A%80+Currently+building...;%E2%98%95+Currently+debugging..." />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🟢_Open_to_Software_%26_Java_Internships-1a1a2e?style=for-the-badge&labelColor=0D1117&color=1a1a2e"/>
+
+<br/>
+
+*Circuits by degree, code by choice.*
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 
 ---
+
+<div align="center">
+
+![](https://img.shields.io/badge/B.E.-Electrical%20%26%20Electronics%20Engineering-6C63FF?style=for-the-badge&logo=studyverse&logoColor=white)
+![](https://img.shields.io/badge/CGPA-8%2B-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)
+![](https://img.shields.io/badge/Location-Tamil%20Nadu,%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
+![](https://img.shields.io/badge/Open%20To-Internships-6366F1?style=for-the-badge&logo=handshake&logoColor=white)
+
+<br/>
+
+<a href="https://professional-portfolio-delta-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nisha-s-3a82142a3"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/nisha0911-gif"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://leetcode.com/u/nisha_0911/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nisha0911-gif&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/nisha0911-gif?style=for-the-badge&color=7C3AED&labelColor=black"/>
+<img src="https://img.shields.io/github/stars/nisha0911-gif?style=for-the-badge&color=7C3AED&labelColor=black"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+---
+
+## 👨‍💻 About Me
+
+I'm currently pursuing a **Bachelor of Engineering in Electrical and Electronics Engineering (EEE)** with a strong passion for **Software Engineering** and modern technology.
+
+- 🔭 I enjoy designing **scalable applications**, solving programming challenges, and building innovative projects that blend **software development** with **embedded systems and IoT**.
+- 🌱 Currently strengthening my skills in **Java Development, Full Stack Engineering, Data Analytics**, and **RESTful APIs**.
+- 💡 My goal is to build reliable, efficient, and user-focused software solutions while growing into a skilled software engineer.
+- ⚡ Fun fact: I love connecting hardware circuits with software logic!
+
+---
+
+## 💼 Professional Interests
+
+<p align="left">
+<img src="https://img.shields.io/badge/Software%20Engineering-6C63FF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java%20Development-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Engineering-00758F?style=flat-square&logo=fullstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-A22846?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-4479A1?style=flat-square&logo=googleanalytics&logoColor=white"/>
+</p>
+
+## 🤝 Open To
+
+<p align="left">
+<img src="https://img.shields.io/badge/Software%20Engineering%20Internships-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Java%20Developer%20Internships-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Roles-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20Source%20Collaboration-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Technical%20Project%20Collaboration-6366F1?style=flat-square"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql&theme=dark"/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark"/>
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase&theme=dark"/>
+
+**Tools & Technologies**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,eclipse,idea&theme=dark"/>
+
+</div>
+
+---
+
+## 🚀 Currently Learning
 
 <p align="center">
-
-![](https://img.shields.io/badge/B.E.-Electrical%20%26%20Electronics%20Engineering-6C63FF?style=for-the-badge)
-
-![](https://img.shields.io/badge/CGPA-8%2B-7C3AED?style=for-the-badge)
-
-![](https://img.shields.io/badge/India-Tamil%20Nadu-8B5CF6?style=for-the-badge)
-
-![](https://img.shields.io/badge/Open%20to-Internships-6366F1?style=for-the-badge)
-
-</p>
-
-<p align="center">
-
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=7C3AED)
-
+<img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-013243?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning%20Basics-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
 ---
 
-# About Me
+## 📊 Technical Skills
 
-I'm an **Electrical & Electronics Engineering (EEE)** undergraduate passionate about designing intelligent software solutions that bridge the gap between hardware and software. My interests span **Software Engineering, Java Development, Full Stack Development, IoT, Embedded Systems, and Data Analytics**.
+<div align="center">
 
-I enjoy building scalable applications, solving algorithmic challenges, and developing technology-driven solutions that create meaningful real-world impact.
+| Skill | Proficiency | Level |
+|:---|:---:|:---|
+| Java | ⭐⭐⭐⭐☆ | ████████░░ 80% |
+| HTML5 | ⭐⭐⭐⭐☆ | ████████░░ 80% |
+| CSS3 | ⭐⭐⭐⭐☆ | ████████░░ 80% |
+| JavaScript | ⭐⭐⭐☆☆ | ██████░░░░ 60% |
+| SQL / MySQL | ⭐⭐⭐⭐☆ | ████████░░ 80% |
+| Node.js | ⭐⭐⭐☆☆ | ██████░░░░ 60% |
+| Git & GitHub | ⭐⭐⭐⭐☆ | ████████░░ 80% |
+| Data Structures | ⭐⭐⭐☆☆ | ██████░░░░ 60% |
+| Problem Solving | ⭐⭐⭐⭐☆ | ████████░░ 80% |
 
-Currently, I'm strengthening my expertise in backend development, cloud technologies, modern web development, and AI-assisted software engineering while continuously improving my problem-solving skills.
+</div>
 
-### Professional Interests
-
-- Software Engineering
-- Product Development
-- Java Development
-- Full Stack Engineering
-- Embedded Systems
-- Internet of Things (IoT)
-- Data Analytics
-- Cloud Computing
-- Artificial Intelligence
-- Open Source
-
----
-
-## Open To
-
-✔ Software Engineering Internship
-
-✔ Java Developer Internship
-
-✔ Full Stack Developer Internship
-
-✔ IoT Projects
-
-✔ Open Source Collaboration
-
-✔ Freelance Development
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ---
 
-# Tech Stack
+## 🚀 Featured Projects
 
-## Languages
+<details open>
+<summary><b>🚗 IoT-Enabled Wireless Power Transmission for Electric Vehicles</b></summary>
+<br/>
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql"/>
-
-</p>
-
----
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
-
-</p>
-
----
-
-## Backend & Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase"/>
-
-</p>
-
----
-
-## Tools & Technologies
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,eclipse,idea"/>
-
-</p>
-
----
-
-## Currently Exploring
-
-- Spring Boot
-- React
-- REST APIs
-- Data Analytics
-- Machine Learning Basics
-- Cloud Fundamentals
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|---------|
-| Machine Learning | ⭐⭐☆☆☆ | Learning supervised learning fundamentals |
-| Data Analytics | ⭐⭐⭐⭐☆ | SQL, dashboards, and data visualization |
-| Artificial Intelligence | ⭐⭐☆☆☆ | AI concepts and intelligent applications |
-| Predictive Analytics | ⭐⭐⭐☆☆ | Data preprocessing and insights |
-| IoT Analytics | ⭐⭐⭐⭐☆ | Sensor monitoring and cloud integration |
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>🚗 IoT Enabled Wireless Power Transmission for Electric Vehicles</b></summary>
-
-### Overview
-
-A smart wireless charging system that integrates IoT with wireless power transmission for efficient cable-free EV charging.
+> Developed an IoT-based wireless charging system for electric vehicles that enables cable-free power transfer while providing real-time monitoring of charging status, battery health, and energy consumption through cloud connectivity.
 
 | Feature | Details |
-|----------|---------|
-| Stack | ESP32, Arduino, HTML, CSS, JavaScript |
-| Scale | Prototype |
-| Performance | Real-time Monitoring |
-| Security | IoT Authentication |
-| Impact | Smart EV Charging |
-| Repository | Add GitHub Link |
-
-### Highlights
-
-- Wireless charging
-- Battery monitoring
-- IoT dashboard
-- Cloud connectivity
-- Smart energy management
-- Temperature monitoring
-- Remote monitoring
+|---------|---------|
+| **Tech Stack** | ESP32, Arduino, Embedded C, HTML, CSS, JavaScript |
+| **Scale** | Academic Engineering Project |
+| **Performance** | Real-Time Monitoring |
+| **Security** | Secure IoT Communication |
+| **Impact** | Smart & Efficient EV Charging |
+| **Repository** | *Add GitHub Repository Link* |
 
 </details>
-
----
 
 <details>
 <summary><b>📄 Digital Approval System</b></summary>
+<br/>
 
-### Overview
-
-A secure web-based document approval platform designed to simplify approval workflows with role-based authentication.
+> Developed a secure web application that digitizes the document approval workflow with authentication, approval tracking, and efficient record management.
 
 | Feature | Details |
-|----------|---------|
-| Stack | Node.js, Express, HTML, CSS, JavaScript, MySQL |
-| Scale | Enterprise Prototype |
-| Performance | Optimized CRUD Operations |
-| Security | Login Authentication |
-| Impact | Workflow Automation |
-| Repository | Add GitHub Link |
-
-### Highlights
-
-- User Authentication
-- Role-based Access
-- Document Workflow
-- Approval Tracking
-- Responsive Design
+|---------|---------|
+| **Tech Stack** | HTML, CSS, JavaScript, Node.js, Express.js, MySQL |
+| **Scale** | Full Stack Web Application |
+| **Performance** | Fast CRUD Operations |
+| **Security** | User Authentication |
+| **Impact** | Streamlined Approval Process |
+| **Repository** | *Add GitHub Repository Link* |
 
 </details>
-
----
 
 <details>
 <summary><b>🌐 Personal Portfolio Website</b></summary>
+<br/>
 
-### Overview
-
-A modern portfolio showcasing technical skills, certifications, and software projects.
+> Designed and developed a modern responsive portfolio website showcasing technical skills, projects, certifications, and professional achievements.
 
 | Feature | Details |
-|----------|---------|
-| Stack | HTML, CSS, JavaScript |
-| Scale | Personal Portfolio |
-| Performance | Responsive UI |
-| Security | Static Hosting |
-| Impact | Professional Branding |
-| Repository | Add GitHub Link |
-
-### Highlights
-
-- Modern UI
-- Responsive Design
-- Skills Showcase
-- Project Gallery
-- Contact Section
+|---------|---------|
+| **Tech Stack** | HTML, CSS, JavaScript |
+| **Scale** | Personal Portfolio |
+| **Performance** | Responsive Design |
+| **Security** | Static Deployment |
+| **Impact** | Professional Online Presence |
+| **Repository** | *Add GitHub Repository Link* |
 
 </details>
-
----
 
 <details>
 <summary><b>☕ Java & SQL Practice Repository</b></summary>
+<br/>
 
-### Overview
-
-A growing repository of Java programs, SQL queries, DSA solutions, and coding challenges.
+> A collection of Java programs, SQL queries, data structure implementations, and coding challenge solutions developed to strengthen programming and problem-solving skills.
 
 | Feature | Details |
-|----------|---------|
-| Stack | Java, SQL |
-| Scale | Learning Repository |
-| Performance | Efficient Algorithms |
-| Security | N/A |
-| Impact | Problem Solving |
-| Repository | Add GitHub Link |
-
-### Highlights
-
-- DSA
-- Java OOP
-- SQL Queries
-- Coding Challenges
-- Interview Preparation
+|---------|---------|
+| **Tech Stack** | Java, SQL |
+| **Scale** | Learning Repository |
+| **Performance** | Optimized Algorithms |
+| **Security** | N/A |
+| **Impact** | Technical Skill Development |
+| **Repository** | *Add GitHub Repository Link* |
 
 </details>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 ---
+
+# 📈 GitHub Analytics
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=nisha0911-gif&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisha0911-gif&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nisha-s-3a82142a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/nisha0911-gif"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://professional-portfolio-delta-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://leetcode.com/u/nisha_0911/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+
+### 💜 *"Building software that solves real-world problems, one commit at a time."*
+
+</div>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+</p>
