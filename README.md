@@ -38,7 +38,7 @@
 
 <br/>
 
-*Circuits by degree, code by choice.*
+*Building Solutions that shape Tomorrow*
 
 </td>
 <td width="40%" align="center" valign="middle">
