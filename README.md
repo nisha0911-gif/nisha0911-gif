@@ -85,10 +85,9 @@
 
 I'm currently pursuing a **Bachelor of Engineering in Electrical and Electronics Engineering (EEE)** with a strong passion for **Software Engineering** and modern technology.
 
-- 🔭 I enjoy designing **scalable applications**, solving programming challenges, and building innovative projects that blend **software development** with **embedded systems and IoT**.
-- 🌱 Currently strengthening my skills in **Java Development, Full Stack Engineering, Data Analytics**, and **RESTful APIs**.
+- 🔭 I enjoy designing **scalable applications**, solving programming challenges, and building innovative projects that blend **software development** 
+- 🌱 Currently strengthening my skills in **Java Development, Frontend Development, Data Analytics**.
 - 💡 My goal is to build reliable, efficient, and user-focused software solutions while growing into a skilled software engineer.
-- ⚡ Fun fact: I love connecting hardware circuits with software logic!
 
 ---
 
